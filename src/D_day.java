@@ -19,7 +19,7 @@ public class D_day {
 		String strmonth1 = input1.substring(4, 6);
 		String strday1 = input1.substring(6, 8);
 		
-		//3.분리한 값을 int형으로 변환시킨다.
+		//3.분리한 값을 int형으로 변환시킨다. 
 		int year1 = Integer.parseInt(stryear1);
 		int month1 = Integer.parseInt(strmonth1);
 		int day1 = Integer.parseInt(strday1);
